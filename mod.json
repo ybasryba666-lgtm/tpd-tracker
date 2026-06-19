@@ -11,12 +11,5 @@
     "name":        "TPD Tracker",
     "version":     "v1.0.0",
     "developer":   "yourname",
-    "description": "Calculates and overlays Time Pressure Density (TPD) in real-time, measuring how mechanically demanding each moment of a level is.",
-    "dependencies": [
-        {
-            "id":         "geode.loader",
-            "version":    ">=3.3.0",
-            "importance": "required"
-        }
-    ]
+    "description": "Displays Time Pressure Density in real-time during gameplay."
 }
