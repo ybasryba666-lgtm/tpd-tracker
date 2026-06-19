@@ -1,0 +1,22 @@
+{
+    "geode": "3.3.0",
+    "gd": {
+        "win":       "2.206",
+        "android32": "2.206",
+        "android64": "2.206",
+        "mac":       "2.206",
+        "ios":       "2.206"
+    },
+    "id":          "com.yourname.tpd_tracker",
+    "name":        "TPD Tracker",
+    "version":     "v1.0.0",
+    "developer":   "yourname",
+    "description": "Calculates and overlays Time Pressure Density (TPD) in real-time, measuring how mechanically demanding each moment of a level is.",
+    "dependencies": [
+        {
+            "id":         "geode.loader",
+            "version":    ">=3.3.0",
+            "importance": "required"
+        }
+    ]
+}
